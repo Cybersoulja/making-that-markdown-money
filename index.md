@@ -2,4 +2,5 @@
 ## Header 2
 ### Header 3
 
-[Sapphire Suite QR Code](https://www.canva.com/design/DAF1m71bHAY/view)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
